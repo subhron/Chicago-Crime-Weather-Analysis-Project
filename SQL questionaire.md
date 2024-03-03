@@ -731,9 +731,7 @@ crime_year|case  |avg_temp|total_crime_growth|seasonal_growth|
 2020|Summer|      86|              0.21|Gain           |
 2020|Autumn|      64|             -0.07|Loss           |
 
-To be continued....
 
-:exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
 
 
