@@ -150,7 +150,7 @@ Mckinley Park  |     15923|11292.91|           4081|
 **6.** What month had the most crimes reported and what was the average and median temperature high in the last five years?
 
 ````sql
-ELECT
+SELECT
 	to_char(t1.reported_crime_date, 'Month') AS month,
 	COUNT(*) AS n_crimes,
 	round(avg(t2.temp_high), 1) avg_high_temp,
